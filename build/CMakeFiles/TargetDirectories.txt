@@ -1,0 +1,3 @@
+C:/Users/Tik/stm/test_micko/build/CMakeFiles/MyApp.dir
+C:/Users/Tik/stm/test_micko/build/CMakeFiles/edit_cache.dir
+C:/Users/Tik/stm/test_micko/build/CMakeFiles/rebuild_cache.dir
